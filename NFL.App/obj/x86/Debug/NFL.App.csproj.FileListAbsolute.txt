@@ -1,0 +1,179 @@
+C:\Visual Studio\WPF\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+C:\Visual Studio\WPF\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+C:\Visual Studio\WPF\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+C:\Visual Studio\WPF\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+C:\Visual Studio\WPF\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+C:\Visual Studio\WPF\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.g.cs
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+C:\Visual Studio\Tercero2015\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.baml
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.g.cs
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.baml
+C:\Users\alumnotic\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.g.cs
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.baml
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.baml
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.g.cs
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.g.cs
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+C:\Users\alumnotic\Pictures\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+J:\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+J:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+J:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+J:\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+J:\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+J:\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+J:\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+J:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+J:\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+J:\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.baml
+J:\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.baml
+J:\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+J:\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+J:\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.g.cs
+J:\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.g.cs
+J:\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+J:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+J:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+J:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+J:\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+C:\Users\user\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+C:\Users\user\Desktop\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.baml
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.baml
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.g.cs
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.g.cs
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+G:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+J:\Nueva carpeta (2)\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+J:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+J:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+H:\Nueva carpeta (2)\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+H:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+H:\Nueva carpeta (2)\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+G:\tarea torres\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+G:\tarea torres\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+G:\tarea torres\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+G:\tarea torres\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+G:\tarea torres\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.baml
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.baml
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.g.cs
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NewTeamWindow.g.cs
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+G:\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.baml
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.g.cs
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+C:\Users\JulioCesar\Desktop\tarea torres\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\bin\Debug\NFL.App.exe.config
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.exe
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.pdb
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\bin\Debug\NFL.App.exe
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\bin\Debug\NFL.App.pdb
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\bin\Debug\NFL.Styles.dll
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\bin\Debug\NFL.Styles.pdb
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csprojResolveAssemblyReference.cache
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.baml
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.baml
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\App.baml
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\MainWindow.g.cs
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\NewPlayer.g.cs
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\App.g.cs
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\NFL.App_MarkupCompile.cache
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.g.resources
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.Properties.Resources.resources
+C:\Users\JulioCesar\Desktop\tarea torres esta si jala usame paro\WpfNFL\NFL.App\obj\x86\Debug\NFL.App.csproj.GenerateResource.Cache
